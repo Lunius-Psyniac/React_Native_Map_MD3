@@ -20,7 +20,7 @@ const MapView =
 import { Marker } from 'react-native-maps';
 import * as Location from 'expo-location';
 
-const API_KEY = '7b8c25a46d8f15fa29fe8ee42bee0d6b';
+const API_KEY = '[INSERT KEY HERE]';
 const Stack = createStackNavigator();
 
 function HomeScreen({ navigation }) {
